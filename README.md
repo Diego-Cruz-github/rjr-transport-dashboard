@@ -1,4 +1,5 @@
 # RJR Reliable Transport - Operations Dashboard (USA)
+> **English** | [Português (BR)](README.pt-BR.md)
 
 Operations dashboard for a US vehicle transport company, in production since 2026.
 
